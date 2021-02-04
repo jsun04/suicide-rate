@@ -41,15 +41,6 @@ No multicollinearity in the data. The multicollinearity occurs when the independ
 **equality**
 We will exam the equal variances across different groups or samples, mean differences on an independent grouping variable (e.g., t-tests and analyses of variance – ANOVAs/MANOVAs).  
 
----
-title: "STAT 167 Project - Team S.T.A.T."
-subtitle: "Data Analysis of: Suicide Rates from 1985 to 2016 by Country"
-author: "Alan Phan, Brian Tran, Dalia Avila, Jiayin Sun, and Eric Wu"
-date: "May 27, 2019"
-output: html_document
----
-
-
 ## **Abstract** 
 
 Suicide is one of the leading causes of death worldwide. According to the World Health Organization, around 800,000 people commit suicide every year, which is one person every 40 seconds (https://www.who.int/mental_health/prevention/suicide/suicideprevent/en/). /*how to cite this source?*/ 
