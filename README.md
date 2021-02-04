@@ -1,5 +1,5 @@
 # suicide-rate
-This is a undergraduate level class project about suicide rate.
+This is a undergraduate level class project about suicide rate mostly done in RStudio.
 ---
 title: "Proposal of S.T.A.T. Project"
 author: "Dalia Avila, Alan Phan, Jiayin Sun, Brian Tran, and Eric Wu"
